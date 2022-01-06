@@ -25,3 +25,5 @@ https://pinme07.netlify.app
 
 
 # Features to be added later in the future
+1) Follow and unfollow other users
+2) Delete your comment or saved posts
