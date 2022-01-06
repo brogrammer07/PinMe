@@ -14,7 +14,7 @@ https://pinme07.netlify.app
 8) React Icons
 
 # Features
-1) Google Authentical with a Custom Login Page
+1) Google Authentication with a Custom Login Page
 2) Users can post new pins with a title, description, pin link and category
 3) All the pins will be available on the home page with a masonry layout
 4) Users can also filter out the pins by clicking on a particular category
